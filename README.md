@@ -66,13 +66,4 @@ While backend is my main strength, I can also work across the full stack when ne
 * Team collaboration & communication
 * Time management
 * Fast learner
-
----
-
-## ⚡ Mindset
-
-I enjoy challenges, continuous learning, and pushing my limits as a developer.
-
----
-
-⭐ *"Build it clean. Make it scalable. Solve the hard problems."*
+* 
