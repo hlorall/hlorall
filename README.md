@@ -1,16 +1,84 @@
-## Hi there 👋
+# Hi, I'm Hala Shahin👋
 
-<!--
-**hlorall/hlorall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer | Problem Solver | Tech Explorer
+⚡ Passionate about building scalable systems & solving complex problems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I'm a backend-focused developer with strong experience in designing APIs, working with databases, and building scalable systems.
+I enjoy tackling challenging problems, optimizing performance, and writing clean, maintainable code.
+
+While backend is my main strength, I can also work across the full stack when needed.
+
+---
+
+## ⚙️ Tech Stack
+
+### 💡 Languages
+
+* C++ | Java | Python | JavaScript | TypeScript | C# | PHP | Dart
+
+### 🚀 Backend & Frameworks
+
+* NestJS | .NET
+* REST APIs | JWT Authentication | Swagger
+
+### 🌐 Frontend & Mobile
+
+* HTML | CSS | JavaScript
+* Flutter
+
+### 🗄️ Databases & Caching
+
+* MySQL | MongoDB | Firebase | Redis
+
+### 🛠️ Tools & Technologies
+
+* Docker | Git & GitHub
+* Postman | API Testing
+
+---
+
+## 🧩 Core Strengths
+
+* 🏗️ Backend Architecture & API Design
+* ⚡ Performance Optimization
+* 🔐 Secure Authentication Systems
+* 🗄️ Database Design (SQL & NoSQL)
+* 🧠 Strong Problem-Solving Mindset
+* 🔄 Debugging & Troubleshooting
+
+---
+
+## 🌱 Currently Improving
+
+* Advanced system design & scalability
+* Writing cleaner and more efficient backend code
+* Expanding full-stack capabilities
+
+---
+
+## 🤝 Soft Skills
+
+* Problem-solving
+* Team collaboration & communication
+* Time management
+* Fast learner
+
+---
+
+## 📫 Contact Me
+
+* 📧 [your@email.com](mailto:your@email.com)
+
+---
+
+## ⚡ Mindset
+
+I enjoy challenges, continuous learning, and pushing my limits as a developer.
+
+---
+
+⭐ *"Build it clean. Make it scalable. Solve the hard problems."*
