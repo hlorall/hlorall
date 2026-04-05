@@ -69,12 +69,6 @@ While backend is my main strength, I can also work across the full stack when ne
 
 ---
 
-## 📫 Contact Me
-
-* 📧 [your@email.com](mailto:your@email.com)
-
----
-
 ## ⚡ Mindset
 
 I enjoy challenges, continuous learning, and pushing my limits as a developer.
