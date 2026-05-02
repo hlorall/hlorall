@@ -1,6 +1,7 @@
 # Hi, I'm Hala Shahin👋
 
 💻 Backend Developer | Problem Solver | Tech Explorer
+
 ⚡ Passionate about building scalable systems & solving complex problems
 
 ---
@@ -57,7 +58,6 @@ While backend is my main strength, I can also work across the full stack when ne
 * Advanced system design & scalability
 * Writing cleaner and more efficient backend code
 * Expanding full-stack capabilities
-
 ---
 
 ## 🤝 Soft Skills
@@ -66,4 +66,3 @@ While backend is my main strength, I can also work across the full stack when ne
 * Team collaboration & communication
 * Time management
 * Fast learner
-* 
